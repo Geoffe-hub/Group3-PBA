@@ -1,0 +1,57 @@
+body {
+  margin: 0;
+  background-color: #eeeeee;
+  color: #393e46;
+  font-family: Georgia, "Times New Roman";
+}
+
+.box1 {
+  height: 60px;
+  background-color: #222831;
+  text-align: center;
+  position: relative;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+.header-logo {
+  padding-top: 10px;
+  padding-left: 10px;
+  display: inline;
+}
+
+.header-title {
+  display: inline;
+  padding-left: 20px;
+  color: #eeeeee;
+  font-family: Georgia, "Times New Roman";
+  position: relative;
+  bottom: 12px;
+}
+
+.typhoon-link {
+  text-align: center;
+}
+
+.earthquake-link {
+  text-align: center;
+}
+
+.disease-link {
+  text-align: center;
+}
+
+.article-paragraph {
+  font-family: Georgia, "Times New Roman";
+  padding: 10px;
+  color: #222831;
+}
+
+.article-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
+  padding-top: 20px;
+}
